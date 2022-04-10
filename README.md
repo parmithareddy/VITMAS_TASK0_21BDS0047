@@ -5,7 +5,7 @@ Usage: **git init**
 
 >This command is used to start a new repository.
 
-##git config
+## git config
 Usage: **git config –global user.name “[name]”**
 
 Usage: **git config –global user.email “[email address]”** 
@@ -92,7 +92,7 @@ usage: **git checkout<branch name>**
   
 >This command is used to switch between branches in a repository.
   
-#YOUTUBE DEMONSTRATION LINK :
+# YOUTUBE DEMONSTRATION LINK :
 
    
   
